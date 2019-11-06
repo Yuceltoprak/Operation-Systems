@@ -1,3 +1,5 @@
-Karadeniz Teknik Üniversitesi Operation Systems dersi slaytları.
-                            -2019-
+Karadeniz Teknik Üniversitesi; Bilgisayar Mühendisliği Bölümü, Operation Systems dersi slaytları.
+                                         -2019-
+
+ 
                             
